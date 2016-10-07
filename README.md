@@ -1,5 +1,9 @@
-BitTorrent Sync
+BitTorrent Sync (deprecated)
 ===============
+
+Please note, that this image is outdated and is no longer supported and will stay with Sync version 2.3.8. For supported version please use [Resilio Sync image](https://hub.docker.com/r/resilio/sync/). New Github repository can be found [here](https://github.com/bt-sync/sync-docker).
+
+# About
 
 Sync uses peer-to-peer technology to provide fast, private file sharing for teams and individuals. By skipping the cloud, transfers can be significantly faster because files take the shortest path between devices. Sync does not store your information on servers in the cloud, avoiding cloud privacy concerns.
 
